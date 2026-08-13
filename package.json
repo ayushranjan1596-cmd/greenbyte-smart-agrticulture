@@ -1,0 +1,13 @@
+{
+  "name": "greenbyte-smart-agriculture",
+  "version": "2.1.0",
+  "description": "GreenByte AI Smart Agriculture Platform - CII Eastern Region Hackathon demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "vercel-build": "echo GreenByte Vercel deployment ready"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
